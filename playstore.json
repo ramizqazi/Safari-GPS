@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-7252511319170892042-258",
+  "private_key_id": "b754116e9985a89482a79011e8e01f9dcbfa49be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDriiYPVFEDjFAw\nLZWj0bKGY9RSz59+3n58IGy9utVIgY/WMtczSPnxclEKZmSFhoozENGAJ5ghlyWF\nRlQRmH7DxsbrYeQCWCgFcE9K4uPviL3+CBJ/rjy+26AIzUeFIzcjMMp6QWNlYiBb\njeycHyT1kV90TpG3mtLD0Prwu1QFyQD9eXuGG924nu1wORdD8w8g6z76whemclo8\nkRnGMGd8SFJ8NgRmfil/tBzTD1yK1imFI5NqHPt+KLLvO1r/2QwTnP3OI746tgdW\n+bfEw6RD5kn1M2LuT/jTeOBLYSH6RzV27OP7H5HmCGQmCC5q19p9xjIIGj0G1Icr\nVYT28v0HAgMBAAECggEAI9qLoJm9G0Uoj6zgsmchPcPEdjaUmMNVjZ+B7f+ap8bR\nFlH24B+jrFUycNrVQl4Qe2V7/n4IclSHqZnjAiqsYTDI5tun0ZOJxAosh8Gx4Kx3\n/0tLRZRIOuVDnxNgZ6vMoNa0e5eoga5GLqmT8s/q2FagqRusor42hwgwqqRZTefY\nMW6wsMFt5m8BHNenO846o+vVJFiPwjcjZ2tsNpYH66C5ywtZ00SZ7fi+Stu3yFaV\n/4b4Dc2xhJinAGtQuvq8aXwVHwSPmluMM2I2UcWzqZph01pYhgslDrgo69aFHhao\nCZ7SNcwvFSdWmeKiyBI6JnLjDanUjomFTHXye54sgQKBgQD6GuqtkehQF+/ElTzl\neZnmwDeT+wOImpKSWAnzxXmxB/JfilGu8M86XgzNbgHSI7aUSQWU3W9jfLidMaA0\nPqEbnOLtYcYDlXfLbNenfcp+5O/IOupNhbX3M7iW8nva7hPoHakw9NOjIXUHzUug\nHYH7D7Qp8YIm01dTbdryukZ0CQKBgQDxF1jCD6f9Gumt/d2AVCovgf+ZVtjvqwEZ\nbk83MiG1Yqn62sRjdH3w6b7PMx18Vr3oBCZsDajjsypl+4uFByJmMYfNn6VpYJgw\nchPazIP9W1FdCdT+Z+Q+IzW5IRIBvuna/llcruIU6wGBrbIr5b1IhcFQIcKGfJ9j\nNu3EflnMjwKBgBZCmQqTxvKB/uQnSEFAXnNMPmYcXEcnQs5lqZUZyWf5Rhg8zmJc\nqoUOY+NQ3Dag2Ro/mZCTWNuo+SF8jj64KEy13Pi10BL3la70ZAlTR9eddr4CiGIX\n+YckAlTlBiMJN5pcMXfbAo8tZiYonoeEuNHopudoyGW+P7J8P5WFAMpJAoGBAMNp\nqQeiqQb+SWo92supbIgVVpdzTWL1uG5ketDCUZAz6JLrv0LdqTccPwyy4bNmm4bz\n1jC+4aWuEy+WNAAfSEKM4wZH4EsJgFHEJVOzcUhqPAitb3bFvrqez2y+4VmI5QQc\nJVJ6bcWGtjHmGAR8sm+V+pp4wrM/T/GbFB2wTBkBAoGBAKQgH+DVcl994JYeBs2B\nFA4ttLGO7Q7LcJr/ERTgXQ7mYbOneiOWMF3/y/Dhoup4U27MtGbkDltWrczwHO7l\nP+9BorpiaLFSwzO8V+smjMMopwxUppWei+Tkf+qUYfXUGEQiPqmUcNOD8Saxf7rC\nlO/O9IZZ1t7ft/x51OVx/L1M\n-----END PRIVATE KEY-----\n",
+  "client_email": "com-safarigps-app-342@pc-api-7252511319170892042-258.iam.gserviceaccount.com",
+  "client_id": "107266360649313206278",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/com-safarigps-app-342%40pc-api-7252511319170892042-258.iam.gserviceaccount.com"
+}

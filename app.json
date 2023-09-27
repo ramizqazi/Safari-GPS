@@ -1,0 +1,64 @@
+{
+  "expo": {
+    "name": "SafariGPS",
+    "description": "GPS Tracking business",
+    "slug": "SafariGPS",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "5.2.2",
+    "orientation": "portrait",
+    "icon": "./assets/app_icon.png",
+    "primaryColor": "#cccccc",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "notification": {
+      "icon": "./assets/push_notification_icon.png"
+    },
+    "updates": {
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 30000,
+      "url": "https://u.expo.dev/43478b10-ee67-410f-bdc7-7c8c7529809e"
+    },
+    "ios": {
+      "bundleIdentifier": "com.safarigps.app",
+      "buildNumber": "34",
+      "supportsTablet": true,
+      "appStoreUrl": "https://itunes.apple.com/de/app/safari-gps/id1313163712",
+      "config": {
+        "googleMapsApiKey": "AIzaSyBM-bImvez-jtFfJArGX5kpxPxTmuMVtuo"
+      },
+      "infoPlist": {
+        "NSLocationAlwaysUsageDescription": "Turning on location services allows us to show you when cars are nearby",
+        "NSLocationWhenInUseUsageDescription": "Turning on location services allows us to show you when cars are nearby",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Turning on location services allows us to show you when cars are nearby"
+      }
+    },
+    "android": {
+      "package": "com.safarigps.app",
+      "versionCode": 34,
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.safarigps.app",
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCUuDk_STrKUh-8_ZEp3NUTRp-8nSBzroA"
+        }
+      },
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "CAMERA",
+        "WRITE_EXTERNAL_STORAGE",
+        "CAMERA_ROLL"
+      ]
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    }
+  }
+}

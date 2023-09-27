@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "818254858647",
+    "firebase_url": "https://safari-gps-e471f.firebaseio.com",
+    "project_id": "safari-gps-e471f",
+    "storage_bucket": "safari-gps-e471f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818254858647:android:6ba0244d7daf3712",
+        "android_client_info": {
+          "package_name": "com.safarigps.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818254858647-1qqu0a8ogab633qojs8rd70i8tshu3n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.safarigps.app",
+            "certificate_hash": "35e722ea2082c96f107cc16b5cdd3e91d1b73feb"
+          }
+        },
+        {
+          "client_id": "818254858647-bmgeajcc0rq8pvttlr5vbrh1irbd10dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuojY7Ula3G4cWGtvJpa647_l7FNk37NI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818254858647-bmgeajcc0rq8pvttlr5vbrh1irbd10dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
